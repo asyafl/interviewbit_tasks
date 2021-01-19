@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddOneToNumber", "AddOneToN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDuplicateInArray", "FindDuplicateInArray\FindDuplicateInArray.csproj", "{530B8C6C-F56D-45B4-A1A2-CDEC828662CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumContiguousSubarray", "MaxSumContiguousSubarray\MaxSumContiguousSubarray.csproj", "{ABFBEEC0-E5AF-41E7-9B85-DA75798EA433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSumContiguousSubarray", "MaxSumContiguousSubarray\MaxSumContiguousSubarray.csproj", "{ABFBEEC0-E5AF-41E7-9B85-DA75798EA433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveArray", "WaveArray\WaveArray.csproj", "{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ABFBEEC0-E5AF-41E7-9B85-DA75798EA433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABFBEEC0-E5AF-41E7-9B85-DA75798EA433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABFBEEC0-E5AF-41E7-9B85-DA75798EA433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
