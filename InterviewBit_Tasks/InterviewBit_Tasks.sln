@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSumContiguousSubarray", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaveArray", "WaveArray\WaveArray.csproj", "{D2601D0F-1AFC-4BD6-98CF-D487B89EA94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayWithSquares", "SortArrayWithSquares\SortArrayWithSquares.csproj", "{92772247-4BA6-44FC-A4C9-FD0F3DB1ED41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayWithSquares", "SortArrayWithSquares\SortArrayWithSquares.csproj", "{92772247-4BA6-44FC-A4C9-FD0F3DB1ED41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSumSquareSubMatrix", "SetMatrixZero\MaximumSumSquareSubMatrix.csproj", "{C9A4AA79-0BD5-4D43-B877-1604C2B4B2C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{92772247-4BA6-44FC-A4C9-FD0F3DB1ED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92772247-4BA6-44FC-A4C9-FD0F3DB1ED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92772247-4BA6-44FC-A4C9-FD0F3DB1ED41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A4AA79-0BD5-4D43-B877-1604C2B4B2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A4AA79-0BD5-4D43-B877-1604C2B4B2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A4AA79-0BD5-4D43-B877-1604C2B4B2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A4AA79-0BD5-4D43-B877-1604C2B4B2C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
