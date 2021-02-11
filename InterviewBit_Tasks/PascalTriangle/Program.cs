@@ -18,7 +18,6 @@ namespace PascalTriangle
             {
                 var s = new Solution();
 
-
                 var res = s.Solve(tmp);
 
                 for (int i = 0; i < tmp; i++)
