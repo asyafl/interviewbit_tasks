@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KthRowOfPascalTriangle", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAbsoluteDifference", "MaximumAbsoluteDifference\MaximumAbsoluteDifference.csproj", "{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin", "MaxMin\MaxMin.csproj", "{C4C84B25-0369-430A-A4D1-FE201B157F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C84B25-0369-430A-A4D1-FE201B157F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C84B25-0369-430A-A4D1-FE201B157F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C84B25-0369-430A-A4D1-FE201B157F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C84B25-0369-430A-A4D1-FE201B157F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
