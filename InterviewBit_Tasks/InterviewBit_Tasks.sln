@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSumSquareSubMatrix",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstMissingInteger", "FirstMissingInteger\FirstMissingInteger.csproj", "{831D1095-D320-4CED-8C57-4A1566E8FFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthRowOfPascalTriangle", "KthRowOfPascalTriangle\KthRowOfPascalTriangle.csproj", "{3F00E7F6-22BF-4F6B-B7B1-219D83194056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KthRowOfPascalTriangle", "KthRowOfPascalTriangle\KthRowOfPascalTriangle.csproj", "{3F00E7F6-22BF-4F6B-B7B1-219D83194056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAbsoluteDifference", "MaximumAbsoluteDifference\MaximumAbsoluteDifference.csproj", "{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3F00E7F6-22BF-4F6B-B7B1-219D83194056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F00E7F6-22BF-4F6B-B7B1-219D83194056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F00E7F6-22BF-4F6B-B7B1-219D83194056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D228DF-4E06-4B20-8EDA-15BEF74E0E98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
