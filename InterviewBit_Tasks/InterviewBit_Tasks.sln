@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMin", "MaxMin\MaxMin.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Math", "Math", "{37E5B4C6-17B6-4EF0-9998-E586D2149820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllFactors", "AllFactors\AllFactors.csproj", "{8A93036A-4D94-48E7-BA76-C97A534595A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllFactors", "AllFactors\AllFactors.csproj", "{8A93036A-4D94-48E7-BA76-C97A534595A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyPrime", "VerifyPrime\VerifyPrime.csproj", "{71C6076C-1FAE-4043-98B0-71E24FF2927A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerifyPrime", "VerifyPrime\VerifyPrime.csproj", "{71C6076C-1FAE-4043-98B0-71E24FF2927A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRepresentation", "BinaryRepresentation\BinaryRepresentation.csproj", "{8CDD3950-AB3B-407E-B56F-50D52ABC2413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{71C6076C-1FAE-4043-98B0-71E24FF2927A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C6076C-1FAE-4043-98B0-71E24FF2927A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C6076C-1FAE-4043-98B0-71E24FF2927A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +115,7 @@ Global
 		{C4C84B25-0369-430A-A4D1-FE201B157F7E} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 		{8A93036A-4D94-48E7-BA76-C97A534595A8} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{71C6076C-1FAE-4043-98B0-71E24FF2927A} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{8CDD3950-AB3B-407E-B56F-50D52ABC2413} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
