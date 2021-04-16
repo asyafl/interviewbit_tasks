@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerifyPrime", "VerifyPrime\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryRepresentation", "BinaryRepresentation\BinaryRepresentation.csproj", "{8CDD3950-AB3B-407E-B56F-50D52ABC2413}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{5451320E-996B-4722-9D22-03A90F260A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CDD3950-AB3B-407E-B56F-50D52ABC2413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5451320E-996B-4722-9D22-03A90F260A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5451320E-996B-4722-9D22-03A90F260A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5451320E-996B-4722-9D22-03A90F260A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5451320E-996B-4722-9D22-03A90F260A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{8A93036A-4D94-48E7-BA76-C97A534595A8} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{71C6076C-1FAE-4043-98B0-71E24FF2927A} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{8CDD3950-AB3B-407E-B56F-50D52ABC2413} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{5451320E-996B-4722-9D22-03A90F260A8B} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
