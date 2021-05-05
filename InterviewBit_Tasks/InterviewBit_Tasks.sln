@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisor", "GreatestCommonDivisor\GreatestCommonDivisor.csproj", "{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -130,6 +136,7 @@ Global
 		{8CDD3950-AB3B-407E-B56F-50D52ABC2413} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{5451320E-996B-4722-9D22-03A90F260A8B} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
