@@ -37,11 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryRepresentation", "Bin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{5451320E-996B-4722-9D22-03A90F260A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisor", "GreatestCommonDivisor\GreatestCommonDivisor.csproj", "{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestCommonDivisor", "GreatestCommonDivisor\GreatestCommonDivisor.csproj", "{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{BA10C1ED-792B-4DD1-8771-52B9F2029EF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeInteger", "PalindromeInteger\PalindromeInteger.csproj", "{48A5B83F-4A36-4955-A366-63BA524E69F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeInteger", "PalindromeInteger\PalindromeInteger.csproj", "{48A5B83F-4A36-4955-A366-63BA524E69F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelColumnNumber", "ExcelColumnNumber\ExcelColumnNumber.csproj", "{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{DB0311C6-9A7F-4166-A022-ECC89DC4D827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +125,14 @@ Global
 		{48A5B83F-4A36-4955-A366-63BA524E69F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A5B83F-4A36-4955-A366-63BA524E69F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A5B83F-4A36-4955-A366-63BA524E69F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0311C6-9A7F-4166-A022-ECC89DC4D827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0311C6-9A7F-4166-A022-ECC89DC4D827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0311C6-9A7F-4166-A022-ECC89DC4D827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0311C6-9A7F-4166-A022-ECC89DC4D827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +156,8 @@ Global
 		{DFC94B1F-07CC-4B90-A6B3-4B8BDA281844} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{BA10C1ED-792B-4DD1-8771-52B9F2029EF5} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{48A5B83F-4A36-4955-A366-63BA524E69F6} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{DB0311C6-9A7F-4166-A022-ECC89DC4D827} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
