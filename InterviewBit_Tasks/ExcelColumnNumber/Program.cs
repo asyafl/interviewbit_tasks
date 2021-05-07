@@ -7,7 +7,7 @@ namespace ExcelColumnNumber
         static void Main(string[] args)
         {
             var s = new Solution();
-            Console.WriteLine(s.titleToNumber("AB"));
+            Console.WriteLine(s.titleToNumber("BAQTZ"));
         }
     }
 
