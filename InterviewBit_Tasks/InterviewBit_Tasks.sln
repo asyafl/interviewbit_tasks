@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelColumnTitle", "ExcelColumnTitle\ExcelColumnTitle.csproj", "{35DEC498-4590-4A81-A1B1-CED390D69E52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailingZerosInFactorial", "TrailingZerosInFactorial\TrailingZerosInFactorial.csproj", "{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,10 @@ Global
 		{35DEC498-4590-4A81-A1B1-CED390D69E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35DEC498-4590-4A81-A1B1-CED390D69E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35DEC498-4590-4A81-A1B1-CED390D69E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +171,7 @@ Global
 		{EFCA6EF7-9375-4C48-A5B2-BB49DC06A6E0} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{DB0311C6-9A7F-4166-A022-ECC89DC4D827} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{35DEC498-4590-4A81-A1B1-CED390D69E52} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
