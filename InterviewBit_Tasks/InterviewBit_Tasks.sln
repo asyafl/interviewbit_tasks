@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrailingZerosInFactorial", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridUniquePaths", "GridUniquePaths\GridUniquePaths.csproj", "{77E76FA1-216D-478D-A50D-B316F60BF9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfTwoIntegers", "PowerOfTwoIntegers\PowerOfTwoIntegers.csproj", "{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{77E76FA1-216D-478D-A50D-B316F60BF9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E76FA1-216D-478D-A50D-B316F60BF9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E76FA1-216D-478D-A50D-B316F60BF9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		{35DEC498-4590-4A81-A1B1-CED390D69E52} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{EBE1452C-3E3B-4F88-86C0-DB6FDC30613D} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{77E76FA1-216D-478D-A50D-B316F60BF9B2} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
+		{433DBCEF-FC44-46D2-A0D1-29F9C07C9DC0} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
