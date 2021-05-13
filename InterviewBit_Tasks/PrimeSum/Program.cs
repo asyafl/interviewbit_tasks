@@ -16,7 +16,7 @@ namespace PrimeSum
         {
             var s = new Solution();
 
-            var res = s.primesum(4);
+            var res = s.primesum(26);
             foreach (var t in res)
             {
                 Console.WriteLine(t);
