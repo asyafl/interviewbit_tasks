@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRETTYPRINT", "PRETTYPRINT\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{504B4AC1-0621-4C8D-85CF-2F258F66A3A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeString", "PalindromeString\PalindromeString.csproj", "{D3B423BE-80B6-4577-A434-1F9E938C9CA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeString", "PalindromeString\PalindromeString.csproj", "{D3B423BE-80B6-4577-A434-1F9E938C9CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStrStr", "ImplementStrStr\ImplementStrStr.csproj", "{8AEB5474-CE99-4733-83A5-4537A76A0133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -223,6 +229,7 @@ Global
 		{53FF44AD-8CA3-4698-8F7B-844D65765122} = {37E5B4C6-17B6-4EF0-9998-E586D2149820}
 		{D3B423BE-80B6-4577-A434-1F9E938C9CA7} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 		{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
+		{8AEB5474-CE99-4733-83A5-4537A76A0133} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
