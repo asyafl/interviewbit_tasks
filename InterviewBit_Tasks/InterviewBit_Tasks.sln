@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStrStr", "ImplementStrStr\ImplementStrStr.csproj", "{8AEB5474-CE99-4733-83A5-4537A76A0133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheString", "ReverseTheString\ReverseTheString.csproj", "{A6FBD3D2-91B3-482E-BB70-0D50B0180066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AEB5474-CE99-4733-83A5-4537A76A0133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FBD3D2-91B3-482E-BB70-0D50B0180066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FBD3D2-91B3-482E-BB70-0D50B0180066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FBD3D2-91B3-482E-BB70-0D50B0180066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FBD3D2-91B3-482E-BB70-0D50B0180066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -230,6 +236,7 @@ Global
 		{D3B423BE-80B6-4577-A434-1F9E938C9CA7} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 		{42EB76CC-4F9B-4FB5-A2D9-50873ABD7493} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 		{8AEB5474-CE99-4733-83A5-4537A76A0133} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
+		{A6FBD3D2-91B3-482E-BB70-0D50B0180066} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
