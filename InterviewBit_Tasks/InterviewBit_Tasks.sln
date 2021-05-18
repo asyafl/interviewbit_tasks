@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseTheString", "Reverse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{845F51A6-87BE-4316-805C-5356D692C68B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{F4018664-DD95-4CB2-93F1-6CC6F1F10421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{845F51A6-87BE-4316-805C-5356D692C68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{845F51A6-87BE-4316-805C-5356D692C68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{845F51A6-87BE-4316-805C-5356D692C68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4018664-DD95-4CB2-93F1-6CC6F1F10421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4018664-DD95-4CB2-93F1-6CC6F1F10421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4018664-DD95-4CB2-93F1-6CC6F1F10421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4018664-DD95-4CB2-93F1-6CC6F1F10421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -244,6 +250,7 @@ Global
 		{8AEB5474-CE99-4733-83A5-4537A76A0133} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 		{A6FBD3D2-91B3-482E-BB70-0D50B0180066} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 		{845F51A6-87BE-4316-805C-5356D692C68B} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
+		{F4018664-DD95-4CB2-93F1-6CC6F1F10421} = {504B4AC1-0621-4C8D-85CF-2F258F66A3A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
