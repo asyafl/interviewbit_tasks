@@ -87,9 +87,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search", "Binary Sea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQRT", "SQRT\SQRT.csproj", "{77A0E7BF-9465-404A-8246-EEBE858BC8EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallerOrEqualElements", "SmallerOrEqualElements\SmallerOrEqualElements.csproj", "{486FFB6D-2194-40E5-A485-031DAA22414F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallerOrEqualElements", "SmallerOrEqualElements\SmallerOrEqualElements.csproj", "{486FFB6D-2194-40E5-A485-031DAA22414F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedInsertPosition", "SortedInsertPosition\SortedInsertPosition.csproj", "{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedInsertPosition", "SortedInsertPosition\SortedInsertPosition.csproj", "{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSearch", "MatrixSearch\MatrixSearch.csproj", "{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -257,6 +259,10 @@ Global
 		{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -302,6 +308,7 @@ Global
 		{77A0E7BF-9465-404A-8246-EEBE858BC8EB} = {DB8F7189-3924-47C8-A809-69C6E5C8CC78}
 		{486FFB6D-2194-40E5-A485-031DAA22414F} = {DB8F7189-3924-47C8-A809-69C6E5C8CC78}
 		{BC0430FE-7B1C-4AC9-8E5C-1F0E88370170} = {DB8F7189-3924-47C8-A809-69C6E5C8CC78}
+		{7266D0E7-F39B-4FBA-9D5F-4ACE895E9685} = {DB8F7189-3924-47C8-A809-69C6E5C8CC78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
