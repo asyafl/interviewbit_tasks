@@ -101,9 +101,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrailingZeroes", "TrailingZ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{8A2A1635-23EC-4AB2-A4E9-627A063766E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinXorValue", "MinXorValue\MinXorValue.csproj", "{FDE50D18-3A31-4F48-883D-0D93CDA4FA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinXorValue", "MinXorValue\MinXorValue.csproj", "{FDE50D18-3A31-4F48-883D-0D93CDA4FA18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseBits", "ReverseBits\ReverseBits.csproj", "{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseBits", "ReverseBits\ReverseBits.csproj", "{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Two Pointers", "Two Pointers", "{3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diffk", "Diffk\Diffk.csproj", "{91961B2C-4797-4331-8624-A836090C1072}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -295,6 +299,10 @@ Global
 		{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91961B2C-4797-4331-8624-A836090C1072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91961B2C-4797-4331-8624-A836090C1072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91961B2C-4797-4331-8624-A836090C1072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91961B2C-4797-4331-8624-A836090C1072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -346,6 +354,7 @@ Global
 		{8A2A1635-23EC-4AB2-A4E9-627A063766E0} = {E22B06F1-B6F8-499E-B35D-49A534F121E2}
 		{FDE50D18-3A31-4F48-883D-0D93CDA4FA18} = {E22B06F1-B6F8-499E-B35D-49A534F121E2}
 		{F1DAA75C-E314-4E5A-9D3B-BF2383BAA413} = {E22B06F1-B6F8-499E-B35D-49A534F121E2}
+		{91961B2C-4797-4331-8624-A836090C1072} = {3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
