@@ -115,9 +115,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairWithGivenDifference", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HasPairsWithSum", "HasPairsWithSum\HasPairsWithSum.csproj", "{E285E982-6F52-49A3-B513-90EE83E5A9DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsItems", "ContainsItems\ContainsItems.csproj", "{A7461B7E-6DB6-4345-9A60-03B15685CEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsItems", "ContainsItems\ContainsItems.csproj", "{A7461B7E-6DB6-4345-9A60-03B15685CEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{C731323E-342D-4373-9D08-2342B4286D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{C731323E-342D-4373-9D08-2342B4286D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{8F39B7D7-723A-4981-9947-709BB927DFBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{C731323E-342D-4373-9D08-2342B4286D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C731323E-342D-4373-9D08-2342B4286D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C731323E-342D-4373-9D08-2342B4286D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -389,6 +395,7 @@ Global
 		{E285E982-6F52-49A3-B513-90EE83E5A9DD} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 		{A7461B7E-6DB6-4345-9A60-03B15685CEC7} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 		{C731323E-342D-4373-9D08-2342B4286D7C} = {3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}
+		{8F39B7D7-723A-4981-9947-709BB927DFBF} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
