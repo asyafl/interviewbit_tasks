@@ -125,6 +125,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{C5D983AD-B98C-4FFD-8FFD-F9D4ADA35C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{83ECAD29-5C15-45FD-A793-104051FAC622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{C5D983AD-B98C-4FFD-8FFD-F9D4ADA35C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D983AD-B98C-4FFD-8FFD-F9D4ADA35C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D983AD-B98C-4FFD-8FFD-F9D4ADA35C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ECAD29-5C15-45FD-A793-104051FAC622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ECAD29-5C15-45FD-A793-104051FAC622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ECAD29-5C15-45FD-A793-104051FAC622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ECAD29-5C15-45FD-A793-104051FAC622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -410,6 +416,7 @@ Global
 		{8F39B7D7-723A-4981-9947-709BB927DFBF} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 		{45E5342A-8A51-45E4-B56E-D242B679D5FE} = {3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}
 		{C5D983AD-B98C-4FFD-8FFD-F9D4ADA35C5E} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
+		{83ECAD29-5C15-45FD-A793-104051FAC622} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
