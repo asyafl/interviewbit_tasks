@@ -121,6 +121,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum", "ThreeSum\ThreeS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{8F39B7D7-723A-4981-9947-709BB927DFBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{45E5342A-8A51-45E4-B56E-D242B679D5FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F39B7D7-723A-4981-9947-709BB927DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E5342A-8A51-45E4-B56E-D242B679D5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E5342A-8A51-45E4-B56E-D242B679D5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E5342A-8A51-45E4-B56E-D242B679D5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E5342A-8A51-45E4-B56E-D242B679D5FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -396,6 +402,7 @@ Global
 		{A7461B7E-6DB6-4345-9A60-03B15685CEC7} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
 		{C731323E-342D-4373-9D08-2342B4286D7C} = {3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}
 		{8F39B7D7-723A-4981-9947-709BB927DFBF} = {A98A9CA3-8DD8-4D9D-AEAD-A696B4AE94D8}
+		{45E5342A-8A51-45E4-B56E-D242B679D5FE} = {3F959DDF-EFBC-49FE-ABAC-A1E7E4C30CA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDAD7C62-D4CA-4CA5-B1EB-9114C111CFCE}
