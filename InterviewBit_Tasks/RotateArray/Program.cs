@@ -21,7 +21,7 @@ class Program
         //  var nums = new int[] { 1, 2 };
         // var k = 2;
 
-        Solution.Rotate(nums, k);
+        Solution.Rotate2(nums, k);
 
         foreach (var n in nums)
         {
@@ -32,6 +32,41 @@ class Program
 
     public class Solution
     {
+        public static void Rotate2(int[] nums, int k)
+        {
+            int len = nums.Length;
+            int start = 0;
+            int end = len - k;
+
+            while (end < len)
+            {
+                int tmp = nums[start];
+                nums[start] = nums[end];
+                nums[end] = tmp;
+                start++;
+                end++;
+            }
+        }
+        public static void Rotate1(int[] nums, int k)
+        {
+
+            int len = nums.Length - 1;
+
+            while (k > 0)
+            {
+                var tmp = nums[len];
+                for (int i = len; i >= 1; i--)
+                {
+                    nums[i] = nums[i - 1];
+
+                }
+                nums[0] = tmp;
+
+                k--;
+            }
+
+        }
+
         public static void Rotate(int[] nums, int k)
         {
             var len = nums.Length;
